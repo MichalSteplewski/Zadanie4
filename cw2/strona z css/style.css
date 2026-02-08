@@ -1,0 +1,52 @@
+/* Ogólne ustawienia strony */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 40px;
+    line-height: 1.6;
+}
+
+/* Nagłówek główny */
+h1 {
+    color: #2b2bff;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-bottom: 3px solid #2b2bff;
+    padding-bottom: 10px;
+}
+
+/* Nagłówki sekcji */
+h2, h3 {
+    color: #333366;
+}
+
+/* Linki */
+a {
+    color: #0077cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #005fa3;
+    text-decoration: underline;
+}
+
+/* Obrazek */
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+/* Akapity */
+p {
+    background: #fff;
+    padding: 10px 15px;
+    border-left: 4px solid #2b2bff;
+    margin-bottom: 15px;
+}

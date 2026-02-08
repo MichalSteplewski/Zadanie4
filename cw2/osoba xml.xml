@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<rejestr_osob> 
+<osoba id="1"> 
+<imie>Andrzej</imie> 
+<nazwisko>Walczak</nazwisko> 
+<plec>M</plec> 
+<wiek>29</wiek> 
+</osoba> 
+</rejestr_osob> 

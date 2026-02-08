@@ -1,0 +1,9 @@
+Odpowiedz na pytania: 
+1. Czym jest pamięć podręczna DNS? 
+to lokalna baza danych przechowywująca wyniki wcześniejszych zapytań dns czyli tłumaczenia adresu strony na jej adres IP dzięki temu komputer nie musi kontaktować się 
+za każdym razem z serwerem dns aby uzyskać ten sam adres IP. 
+
+2. Dlaczego komputer przechowuje odwiedzone adresy?
+
+Komputer przechowywuje adresy aby przyśpieszyć działanie intenretu ( nie musi wykonywać kolejnego zapytania dns)
+zmniejsza obciązenie sieci i  serwerów dns, zwiększa wygodę użytkownika 

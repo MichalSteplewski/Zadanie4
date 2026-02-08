@@ -1,0 +1,7 @@
+Pytanie : jaki plik ściągniemy jeśli transfer 10mbit/s i mamy 6 godzin 
+
+Przepustowość w bajtach : 10000000 bit/s÷8=1250000 B/s=1.25 MB/s 
+Całkowita ilosć danych możliwych do pobrania : 1.25 MB/s×21600s = 27000 MB =27 GB 
+Dokonuje korekty o narzut 4% : 27 GB×0.96=25.92 GB 
+
+Wychodzi ,że mogę pobrać plik w wadze 25,92GB. 
